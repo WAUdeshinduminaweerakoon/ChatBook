@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+}
+body{
+    background: #F0FFF0;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #9300ff;
+    padding: 5px 5%;
+}
+.logo{
+    width: 160px;
+    margin-right: 45px;
+}
+.nav-left{
+    display: flex;
+    align-items: center;
+}
